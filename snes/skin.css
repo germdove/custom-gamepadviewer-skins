@@ -37,7 +37,10 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 
 /*BEGIN PS3 Controller Styling*/
 /*This class defines the base attributes of the skin*/
-
+#gamepad-1{
+        background-color: saddlebrown;
+    padding 100px 100px 100px 100px;
+}
 .controller.active.half.custom{
     background-color: saddlebrown;
     padding 100px 100px 100px 100px;
