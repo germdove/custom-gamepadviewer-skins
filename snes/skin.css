@@ -38,13 +38,12 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 /*BEGIN PS3 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 
-*{
-    background-color:saddlebrown;
-}
 .controller.custom{
     background: url(drawing/drawing.svg); 
     background-repeat: no-repeat;
     background-position: 0px 0px;
+    background-color: saddlebrown;
+    paddint 100px 100px 100px 100px;
     width: 970px;
     height: 424px;
     margin-left: -485px;
