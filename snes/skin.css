@@ -39,7 +39,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 /*This class defines the base attributes of the skin*/
 
 .body{
-    background-color:saddlebrown;
+    background-color:saddlebrown !important;
 }
 .controller.custom{
     background: url(drawing/drawing.svg); 
