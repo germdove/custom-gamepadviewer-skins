@@ -39,7 +39,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 /*This class defines the base attributes of the skin*/
 
 .controller.custom{
-    background: url(drawing/MyGreen.svg); 
+    background: url(https://github.com/germdove/custom-gamepadviewer-skins/blob/master/snes2/img/base.png?raw=true); 
     background-repeat: no-repeat;
     background-position: 0px 0px;
     width: 390px;
@@ -48,8 +48,8 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     margin-top: 0px;
 }
 .custom.disconnected {
-    background: url(drawing/MyGreen.svg); 
-    background-position: 0px -132px;
+    background: url(https://github.com/germdove/custom-gamepadviewer-skins/blob/master/snes2/img/disconnected.png?raw=true); 
+    background-position: 0px 0px;
     background-repeat: no-repeat;
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
